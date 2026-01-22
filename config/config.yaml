@@ -334,7 +334,7 @@ ai:
   
   model: "openai/deepseek-r1-250528"
 
-  #api_key: ""                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "b55baba7-903e-4697-ada7-f64d748bafc4"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: "https://ark.cn-beijing.volces.com/api/v3"                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
